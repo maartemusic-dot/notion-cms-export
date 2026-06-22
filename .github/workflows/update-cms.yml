@@ -1,0 +1,50 @@
+name: Update CMS Data
+
+on:
+  schedule:
+    # Runs every day at 2:05 AM UTC (this is the time in London/Greenwich)
+    - cron: '5 2 * * *'
+  # Allows you to manually trigger the workflow from the Actions tab
+  workflow_dispatch:
+
+# Give the default GITHUB_TOKEN write permission to commit and push changes
+permissions:
+  contents: write
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out your repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Step 3: Install dependencies (requests)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Step 4: Run the script
+      # The script reads NOTION_TOKEN and DATABASE_ID from environment variables
+      - name: Fetch Notion data
+        run: python fetch_notion.py
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          DATABASE_ID: ${{ secrets.DATABASE_ID }}
+
+      # Step 5: Commit and push the updated output.json back to the repository
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add output.json
+          git diff --staged --quiet || git commit -m 'Automated update: refresh data from Notion'
+          git push
