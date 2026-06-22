@@ -1,44 +1,58 @@
 [
   {
     "Title": "MAARTE",
-    "Image": "",
-    "Link": "",
-    "Slug": ""
+    "Image": {
+      "url": "fb637456-1764-4e54-bab8-3b3a0a9f73d3.jpeg"
+    },
+    "Link": "producer",
+    "Slug": "maarte"
   },
   {
     "Title": "Franky",
-    "Image": "",
-    "Link": "",
-    "Slug": ""
+    "Image": {
+      "url": "250b04ac-620f-4474-993f-7d6c003b204d.jpeg"
+    },
+    "Link": "producer",
+    "Slug": "franky"
   },
   {
     "Title": "Shamir",
-    "Image": "",
-    "Link": "",
-    "Slug": ""
+    "Image": {
+      "url": "a208f85f-7282-4680-ae7e-7ce8a663757c.jpeg"
+    },
+    "Link": "producer",
+    "Slug": "shamir"
   },
   {
     "Title": "JJ",
-    "Image": "",
-    "Link": "",
-    "Slug": ""
+    "Image": {
+      "url": "2a22a091-5c5b-4503-bb81-836c9d27bf6e.jpeg"
+    },
+    "Link": "producer",
+    "Slug": "jj"
   },
   {
     "Title": "Etchos",
-    "Image": "",
-    "Link": "",
-    "Slug": ""
+    "Image": {
+      "url": "7caf9b72-b09b-4017-bf2e-13a9a9709e2e.jpeg"
+    },
+    "Link": "producer",
+    "Slug": "etchos"
   },
   {
     "Title": "Leral",
-    "Image": "",
-    "Link": "",
-    "Slug": ""
+    "Image": {
+      "url": "0f70d6d2-d2ac-40a0-814c-1f4e536dcf64.jpeg"
+    },
+    "Link": "producer",
+    "Slug": "leral"
   },
   {
     "Title": "Arianna Bernas",
-    "Image": "",
-    "Link": "",
-    "Slug": ""
+    "Image": {
+      "url": "https://res.cloudinary.com/dafpmynro/image/upload/f_auto,q_auto/250620_Edit-1_yuc5jf"
+    },
+    "Link": "producer",
+    "Slug": "arianna-bernas"
   }
 ]
