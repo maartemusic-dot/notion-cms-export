@@ -2,47 +2,39 @@
   {
     "Title": "MAARTE",
     "Image": {
-      "url": "fb637456-1764-4e54-bab8-3b3a0a9f73d3.jpeg"
+      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2f82931d-f8b2-4240-8c48-9b59344e58c8/db9491f6-c62e-4315-9382-023dc0e81ba9/momentum.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YZ74U4XT%2F20260622%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260622T210943Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEQaCXVzLXdlc3QtMiJIMEYCIQCWVn%2F2NPd%2FFn42fCOIr1B7rwqp%2FCqzA1dJmTtObXwKTwIhAM7lsmM4U%2BFDFL9KflV9lY5jBKUXJmxEajr9E102pbY6Kv8DCAwQABoMNjM3NDIzMTgzODA1IgyN54Ytt5rowiqYkWIq3ANl6kMN6wBrdfE%2FJo9Rlg2FfFThLgBrvYNZGMCkxFjKtv74I%2BRIut5qxm0sr%2Bsy5qw5yw%2BBYL%2FyFEi3jGTUTzEwIUDeViGsi84FK4sXNnda3PWHB4ff6v0%2B2OMjoNz2fGQbagBDqjQXAAep9rTipi6iztK3KTi9llp7KWU3msHRwmcIBlZjykRLPcRPvQTBGT4y%2BZmED7RcFCEiLmVnES4DRYGC7CMCPxkI70rDAXKm2fiMBeR8kq5s90MMA8K%2FDDGqBppRm6wfSTeIsk0Aomkf23SrcoyvN7sERrjCUk2RblOsOb369lXfyellta1cYw7LIoEiWlMjFT8BuxNeVlJoor3bxy6p5WHY30WOeqtqqDGpStmpcmZUnPdheLj%2F6QnPpDsXBxSke2JVRoGOcKllVfJkhRfjtkGV%2Fw5VhOXE4XlsJtfDkSdgQAL0nD9w7AyjPvrCms0jUTTr5Achxi5FtXw0F0bOLixz9KFrM7%2FWWx%2FvIUnaPxzRXtz9LAu9%2FQQAxgY4otlL6bzQeY3rBTIWuKKDKwbekpUVzgLyd8v2hDQW3cJrz6tQT%2FR4UrfpRMTAS286GFmSPAY4jqShtrio%2Bh4iDCNLLd%2BIj8LKTU9bb%2FR3XDtvM7wrf7AnPTDRl%2BbRBjqkAUaz9sEMPCTrHUMUtcaAAFoIa5IJF44BafsI6VGrAyeN3PgHqm1c8k9A61oE3kcoWfULZQl79R%2Bcu5XUrnV2YBk4E8Vc%2BIb4g96KbL13qkNCAwrQeQWGlFGatWB%2FS8ety9Gf64D%2BXVj4MzVtQngs0By%2F2RZskW0Al1iVm7zjb3vv%2FBLz2RJP8t65QgFU4W40B3npX2xZ6LJ%2FKohI8J7RDZSetEVs&X-Amz-Signature=ca3b5a782e28cf741c884a12514059cdf1bb84325c7f40c16222eb47cb37c946&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
     },
     "Link": "producer",
     "Slug": "maarte"
   },
   {
     "Title": "Franky",
-    "Image": {
-      "url": "250b04ac-620f-4474-993f-7d6c003b204d.jpeg"
-    },
+    "Image": "",
     "Link": "producer",
     "Slug": "franky"
   },
   {
     "Title": "Shamir",
-    "Image": {
-      "url": "a208f85f-7282-4680-ae7e-7ce8a663757c.jpeg"
-    },
+    "Image": "",
     "Link": "producer",
     "Slug": "shamir"
   },
   {
     "Title": "JJ",
-    "Image": {
-      "url": "2a22a091-5c5b-4503-bb81-836c9d27bf6e.jpeg"
-    },
+    "Image": "",
     "Link": "producer",
     "Slug": "jj"
   },
   {
     "Title": "Etchos",
-    "Image": {
-      "url": "7caf9b72-b09b-4017-bf2e-13a9a9709e2e.jpeg"
-    },
+    "Image": "",
     "Link": "producer",
     "Slug": "etchos"
   },
   {
     "Title": "Leral",
     "Image": {
-      "url": "0f70d6d2-d2ac-40a0-814c-1f4e536dcf64.jpeg"
+      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2f82931d-f8b2-4240-8c48-9b59344e58c8/8744d1c6-1ca2-4faa-b0ff-eb1cd96f23a9/Single_Citrus_Marmalade_Artwork.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YZ74U4XT%2F20260622%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260622T210943Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEQaCXVzLXdlc3QtMiJIMEYCIQCWVn%2F2NPd%2FFn42fCOIr1B7rwqp%2FCqzA1dJmTtObXwKTwIhAM7lsmM4U%2BFDFL9KflV9lY5jBKUXJmxEajr9E102pbY6Kv8DCAwQABoMNjM3NDIzMTgzODA1IgyN54Ytt5rowiqYkWIq3ANl6kMN6wBrdfE%2FJo9Rlg2FfFThLgBrvYNZGMCkxFjKtv74I%2BRIut5qxm0sr%2Bsy5qw5yw%2BBYL%2FyFEi3jGTUTzEwIUDeViGsi84FK4sXNnda3PWHB4ff6v0%2B2OMjoNz2fGQbagBDqjQXAAep9rTipi6iztK3KTi9llp7KWU3msHRwmcIBlZjykRLPcRPvQTBGT4y%2BZmED7RcFCEiLmVnES4DRYGC7CMCPxkI70rDAXKm2fiMBeR8kq5s90MMA8K%2FDDGqBppRm6wfSTeIsk0Aomkf23SrcoyvN7sERrjCUk2RblOsOb369lXfyellta1cYw7LIoEiWlMjFT8BuxNeVlJoor3bxy6p5WHY30WOeqtqqDGpStmpcmZUnPdheLj%2F6QnPpDsXBxSke2JVRoGOcKllVfJkhRfjtkGV%2Fw5VhOXE4XlsJtfDkSdgQAL0nD9w7AyjPvrCms0jUTTr5Achxi5FtXw0F0bOLixz9KFrM7%2FWWx%2FvIUnaPxzRXtz9LAu9%2FQQAxgY4otlL6bzQeY3rBTIWuKKDKwbekpUVzgLyd8v2hDQW3cJrz6tQT%2FR4UrfpRMTAS286GFmSPAY4jqShtrio%2Bh4iDCNLLd%2BIj8LKTU9bb%2FR3XDtvM7wrf7AnPTDRl%2BbRBjqkAUaz9sEMPCTrHUMUtcaAAFoIa5IJF44BafsI6VGrAyeN3PgHqm1c8k9A61oE3kcoWfULZQl79R%2Bcu5XUrnV2YBk4E8Vc%2BIb4g96KbL13qkNCAwrQeQWGlFGatWB%2FS8ety9Gf64D%2BXVj4MzVtQngs0By%2F2RZskW0Al1iVm7zjb3vv%2FBLz2RJP8t65QgFU4W40B3npX2xZ6LJ%2FKohI8J7RDZSetEVs&X-Amz-Signature=a1e963e5ae4ae5851cecc5d181e1573c87f05c681d9a2039236ebd2312e77a52&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
     },
     "Link": "producer",
     "Slug": "leral"
@@ -50,7 +42,7 @@
   {
     "Title": "Arianna Bernas",
     "Image": {
-      "url": "https://res.cloudinary.com/dafpmynro/image/upload/f_auto,q_auto/250620_Edit-1_yuc5jf"
+      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/2f82931d-f8b2-4240-8c48-9b59344e58c8/8350c1f1-c0ab-4472-81aa-125e2b325c6c/arianna.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YZ74U4XT%2F20260622%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260622T210943Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEQaCXVzLXdlc3QtMiJIMEYCIQCWVn%2F2NPd%2FFn42fCOIr1B7rwqp%2FCqzA1dJmTtObXwKTwIhAM7lsmM4U%2BFDFL9KflV9lY5jBKUXJmxEajr9E102pbY6Kv8DCAwQABoMNjM3NDIzMTgzODA1IgyN54Ytt5rowiqYkWIq3ANl6kMN6wBrdfE%2FJo9Rlg2FfFThLgBrvYNZGMCkxFjKtv74I%2BRIut5qxm0sr%2Bsy5qw5yw%2BBYL%2FyFEi3jGTUTzEwIUDeViGsi84FK4sXNnda3PWHB4ff6v0%2B2OMjoNz2fGQbagBDqjQXAAep9rTipi6iztK3KTi9llp7KWU3msHRwmcIBlZjykRLPcRPvQTBGT4y%2BZmED7RcFCEiLmVnES4DRYGC7CMCPxkI70rDAXKm2fiMBeR8kq5s90MMA8K%2FDDGqBppRm6wfSTeIsk0Aomkf23SrcoyvN7sERrjCUk2RblOsOb369lXfyellta1cYw7LIoEiWlMjFT8BuxNeVlJoor3bxy6p5WHY30WOeqtqqDGpStmpcmZUnPdheLj%2F6QnPpDsXBxSke2JVRoGOcKllVfJkhRfjtkGV%2Fw5VhOXE4XlsJtfDkSdgQAL0nD9w7AyjPvrCms0jUTTr5Achxi5FtXw0F0bOLixz9KFrM7%2FWWx%2FvIUnaPxzRXtz9LAu9%2FQQAxgY4otlL6bzQeY3rBTIWuKKDKwbekpUVzgLyd8v2hDQW3cJrz6tQT%2FR4UrfpRMTAS286GFmSPAY4jqShtrio%2Bh4iDCNLLd%2BIj8LKTU9bb%2FR3XDtvM7wrf7AnPTDRl%2BbRBjqkAUaz9sEMPCTrHUMUtcaAAFoIa5IJF44BafsI6VGrAyeN3PgHqm1c8k9A61oE3kcoWfULZQl79R%2Bcu5XUrnV2YBk4E8Vc%2BIb4g96KbL13qkNCAwrQeQWGlFGatWB%2FS8ety9Gf64D%2BXVj4MzVtQngs0By%2F2RZskW0Al1iVm7zjb3vv%2FBLz2RJP8t65QgFU4W40B3npX2xZ6LJ%2FKohI8J7RDZSetEVs&X-Amz-Signature=e9a1d536a9cd5f3daf6d4df2b02c2aeb5ead46b6b26486d8f676ee329930a1cc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
     },
     "Link": "producer",
     "Slug": "arianna-bernas"
